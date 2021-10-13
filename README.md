@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Nikolas Karinja
 
-You can use the [editor on GitHub](https://github.com/gearshiftstudios/my-portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Social Contacts
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Instagram [@lonely.programmer](https://www.instagram.com/lonely.programmer)
+Email [nikolaskarinja.mysticstudios@gmail.com](mailto:nikolaskarinja.mysticstudios@gmail.com)
+Phone [310-902-4760]
 
 ```markdown
 Syntax highlighted code block
