@@ -16,6 +16,7 @@ Below is a list of demos that you can try. Most of them utilize my very own [Mys
 ### Low-Poly Terrain
 <div>
   	<img src="https://gearshiftstudios.github.io/mystic-engine/src/engine/examples/terrain/assets/screenshot.9.png" width="400" height="224" style="display: inline;" />
+    <img src="https://gearshiftstudios.github.io/mystic-engine/src/engine/examples/terrain/assets/screenshot.7.png" width="400" height="224" style="display: inline;" />
 </div>
 
 
