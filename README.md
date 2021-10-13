@@ -12,8 +12,6 @@ I'm an aspiring human that is looking for a solid and challenging programming jo
 
 Below is a list of demos that you can try. Most of them utilize my very own [Mystic Engine](https://github.com/gearshiftstudios/mystic-engine)
 
-<br>
-
 ### Low-Poly Terrain
 <div>
   	<img src="https://gearshiftstudios.github.io/mystic-engine/src/engine/examples/terrain/assets/screenshot.9.png" width="320" height="179" style="display: inline; border-radius: 10px 0px 0px 10px; margin-left: 2.5px; padding: 0;" />
