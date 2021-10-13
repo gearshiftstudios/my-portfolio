@@ -18,7 +18,7 @@ Below is a list of demos that you can try. Most of them utilize my very own [Mys
   	<img src="https://gearshiftstudios.github.io/mystic-engine/src/engine/examples/terrain/assets/screenshot.9.png" width="320" height="179" style="display: inline; border-radius: 10px 0px 0px 10px; margin-left: 2.5px; padding: 0;" />
     <img src="https://gearshiftstudios.github.io/mystic-engine/src/engine/examples/terrain/assets/screenshot.7.png" width="320" height="179" style="display: inline; border-radius: 0px 10px 10px 0px; margin: 0; padding: 0;" />
 </div>
-Made using my very own [Mystic Engine](https://github.com/gearshiftstudios/mystic-engine), it generates a map ranging from _**250x250**_
+Made using my very own [Mystic Engine](https://github.com/gearshiftstudios/mystic-engine), it generates a map ranging from ***250x250***
 
 
 ```markdown
