@@ -4,7 +4,7 @@
 
 - Instagram [@lonely.programmer](https://www.instagram.com/lonely.programmer)
 - Email [nikolaskarinja.mysticstudios@gmail.com](mailto:nikolaskarinja.mysticstudios@gmail.com)
-- Phone [310-902-4760](tel:310-902-4760)
+- Phone [310-902-4760](tel:+13109024760)
 
 ```markdown
 Syntax highlighted code block
