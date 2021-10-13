@@ -7,7 +7,7 @@
 - Phone [310-902-4760](tel:3109024760)
 
 ### Demos
-[![Image](https://gearshiftstudios.github.io/mystic-engine/src/engine/examples/terrain/assets/screenshot.7.png)](https://gearshiftstudios.github.io/mystic-engine/src/engine/examples/terrain/renderer.html)
+<img src="https://gearshiftstudios.github.io/mystic-engine/src/engine/examples/terrain/assets/screenshot.7.png" width="400" height="224" />
 
 ```markdown
 Syntax highlighted code block
