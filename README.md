@@ -1,13 +1,19 @@
-## Nikolas Karinja
+## Myself (Nikolas Karinja)
 
-### Social Contacts
+I'm an aspiring human that is looking for a solid and challenging programming job. Programming has been my passion due to me being an over-achiever and someone who loves to create their very own worlds in a digital space. My main reason that I began programming was to create games from scratch.
+
+## Social Contacts
 
 - Instagram [@lonely.programmer](https://www.instagram.com/lonely.programmer)
 - Email [nikolaskarinja.mysticstudios@gmail.com](mailto:nikolaskarinja.mysticstudios@gmail.com)
 - Phone [310-902-4760](tel:3109024760)
 
-### Demos
-<img src="https://gearshiftstudios.github.io/mystic-engine/src/engine/examples/terrain/assets/screenshot.7.png" width="400" height="224" />
+## Demos
+
+Below is a list of demos that you can try. Most of them utilize my very own [Mystic Engine](https://github.com/gearshiftstudios/mystic-engine)
+
+<img src="https://gearshiftstudios.github.io/mystic-engine/src/engine/examples/terrain/assets/screenshot.9.png" width="400" height="224" />
+
 
 ```markdown
 Syntax highlighted code block
