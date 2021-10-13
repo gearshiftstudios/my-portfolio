@@ -19,7 +19,8 @@ Below is a list of demos that you can try. Most of them utilize my very own [Mys
     <img src="https://gearshiftstudios.github.io/mystic-engine/src/engine/examples/terrain/assets/screenshot.7.png" width="320" height="179" style="display: inline; border-radius: 0px 10px 10px 0px; margin: 0; padding: 0;" />
 </div>
 
-Made using my very own [Mystic Engine](https://github.com/gearshiftstudios/mystic-engine), it generates a map ranging from **250 Tiles Squared** to **1000 Tiles Squared**. On a average computer it can run **250 Tiles Squared** to **500 Tiles Squared** with no problems. However, anything above that may result in frame-drops and decreased performance.
+- **Description** - Made using my very own [Mystic Engine](https://github.com/gearshiftstudios/mystic-engine), it generates a map ranging from **250 Tiles Squared** to **1000 Tiles Squared**. 
+- **Performance** - On a average computer it can run **250 Tiles Squared** to **500 Tiles Squared** with no problems. However, anything above that may result in frame-drops and decreased performance.
 
 
 ```markdown
