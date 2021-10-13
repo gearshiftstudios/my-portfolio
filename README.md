@@ -10,7 +10,7 @@ I'm an aspiring human that is looking for a solid and challenging programming jo
 
 ## Demos
 
-Below is a list of demos that you can try. Most of them utilize my very own [Mystic Engine](https://github.com/gearshiftstudios/mystic-engine)
+Below is a list of demos that you can try. Most of them utilize my very own **[Mystic Engine](https://github.com/gearshiftstudios/mystic-engine)**
 
 ### Low-Poly Terrain
 <div>
